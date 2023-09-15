@@ -8,7 +8,7 @@ function App() {
 
   const [times, setTimes] = useState([
     {
-      nome: '"Direção",',
+      nome: 'Direção',
       cor: '#82CFFA'
     },
     {
